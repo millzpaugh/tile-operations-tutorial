@@ -1,0 +1,21 @@
+{
+  "name": "vtlibs",
+  "version": "0.1.0",
+  "description": "vt-x tutoria library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/mvt-fixtures": "^3.5.0",
+    "@mapbox/sphericalmercator": "^1.1.0",
+    "@mapbox/tilebelt": "^1.0.1",
+    "@mapbox/vtcomposite": "^0.1.1",
+    "@mapbox/vtquery": "^0.3.0",
+    "@mapbox/vtshaver": "^0.1.0",
+    "@mapbox/vtvalidate": "^0.2.2",
+    "aws-sdk": "^2.306.0"
+  }
+}
