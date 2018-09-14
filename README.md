@@ -89,7 +89,7 @@ Both tiles have a min zoom of 0 and a max zoom of 5.
 ## Let’s composite our own tiles! 
 
 
-1. `git clone vtlibs-tutorial` & run `npm install` 
+1. `git clone tile-operations-tutorial` & run `npm install` 
 
 
 2. Navigate to `tiles/point_1-10-20.mvt`
